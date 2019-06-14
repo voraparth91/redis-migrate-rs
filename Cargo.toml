@@ -1,0 +1,9 @@
+[package]
+name = "redis-copy-rs"
+version = "0.1.0"
+authors = ["parthvora_juspay <vora.parth91@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+redis = "0.10.0"
+redis_cluster_rs = "0.1.6"
